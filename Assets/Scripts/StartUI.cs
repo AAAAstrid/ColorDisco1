@@ -10,7 +10,7 @@ public class StartUI : MonoBehaviour
 
     private void Update()
     {
-        OpenContinueButton();
+        //OpenContinueButton();
     }
 
     public void OpenContinueButton()
